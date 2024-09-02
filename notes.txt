@@ -1,0 +1,15 @@
+1. Sukurti wireframe kuriame butu žaidimo misijų  bei  reward logiką;
+
+2. Aprasyši misijas bei išsaugoti į JS failą;
+
+3. Susikurti state bei atvaizduoti misijas;
+
+4. Atvaizduoti characterio kotelę bei pinigus kuriuos jis turi;
+
+5. Paspaudus ant misijos - characterio uždirbta pinigų suma turi padidėti reward kiekiu;
+
+6. Naudoti CSS kintamuosius pagrindinėms puslapio spalvoms;
+
+7. Atvaizduoti ekrane tik pirmas 5 misijas;
+
+8. Atlikus misiją - jos ekrane neturi matytis. Vietoj išnykusios misijos turi matytis sekanti neatlikta misija;
